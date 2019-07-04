@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F49456D5-47AC-487F-BB5F-7AD29A2022F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{72018CDC-531A-4E49-A9F7-758AB63A8378}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Baseline", "Baseline", "{0B6BAC62-71BD-4AC7-9F42-3FBD2B258CC9}"
+	ProjectSection(SolutionItems) = preProject
+		baselineScript.ps1 = baselineScript.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49456D5-47AC-487F-BB5F-7AD29A2022F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49456D5-47AC-487F-BB5F-7AD29A2022F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49456D5-47AC-487F-BB5F-7AD29A2022F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49456D5-47AC-487F-BB5F-7AD29A2022F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72018CDC-531A-4E49-A9F7-758AB63A8378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72018CDC-531A-4E49-A9F7-758AB63A8378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72018CDC-531A-4E49-A9F7-758AB63A8378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72018CDC-531A-4E49-A9F7-758AB63A8378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

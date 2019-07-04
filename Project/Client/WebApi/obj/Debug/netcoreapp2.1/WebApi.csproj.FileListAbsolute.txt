@@ -1,0 +1,13 @@
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/bin/Debug/netcoreapp2.1/WebApi.deps.json
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.json
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/bin/Debug/netcoreapp2.1/WebApi.dll
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/bin/Debug/netcoreapp2.1/WebApi.pdb
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.dll
+/Users/eduardo/Documents/Projects/pocs/ArchitectureAsBaseLine/Project/Client/WebApi/obj/Debug/netcoreapp2.1/WebApi.pdb
