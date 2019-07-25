@@ -1,5 +1,6 @@
 # Arquitectura de software como línea base.
 
+
 Antes de comenzar a escribir software deberíamos de tener un objetivo de lo que haremos, después un buen diseño, posterior a eso podemos iniciar con el proceso de desarrollo y terminamos con pruebas y mejora continua. 
 
 Más que bueno, el diseño de lo que vamos a desarrollar debe de estar integrado como parte de nuestro desarrollo; es decir la arquitectura del software como tal también es código, son configuraciones de aplicaciones web, configuraciones de servicios web, estructura de bases de datos, balanceadores de carga, firewalls y muchas cosas que en su mayoría ya pueden partir de líneas de código o scripts. 
