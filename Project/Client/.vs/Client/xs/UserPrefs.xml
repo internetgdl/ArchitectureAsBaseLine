@@ -5,6 +5,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Client" expanded="True">
+            <Node name="Baseline" expanded="True" />
             <Node name="Client" selected="True" />
           </Node>
         </State>

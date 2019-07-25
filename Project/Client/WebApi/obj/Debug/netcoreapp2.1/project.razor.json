@@ -2857,5 +2857,6 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "WebApi",
-  "Documents": []
+  "Documents": [],
+  "SerializationFormat": "0.1"
 }
